@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aryadeep2116&style=for-the-badge&color=6a5cff&label=PROFILE+VIEWS" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
@@ -33,8 +37,6 @@
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -46,6 +48,12 @@
   <img src="https://img.shields.io/badge/-OOP-00d4ff?style=flat-square" />
   <img src="https://img.shields.io/badge/-System%20Design-6a5cff?style=flat-square" />
   <img src="https://img.shields.io/badge/-REST%20APIs-00d4ff?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26"/>
+  <i>Actively building with these daily — not just listing them</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
@@ -131,8 +139,16 @@ Processes 800+ commits across 8 repos per user. React + Recharts dashboard, Expr
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<div align="center">
 
 *💼 Open to Software Development Engineer / Full-Stack Developer internship and new-grad opportunities.*
+
+<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5cff&height=100&section=footer" width="100%"/>
 
